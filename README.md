@@ -10,3 +10,6 @@ https://github.com/alco/gostart
 
 ## Go at Google: Language Design in the Service of Software Engineering
 https://talks.golang.org/2012/splash.article
+
+## Go Open Source Projects
+http://herman.asia/open-source-go-projects-to-learn-from
