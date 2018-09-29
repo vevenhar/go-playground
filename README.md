@@ -1,6 +1,6 @@
 # go-playground
 
-A place to collect various code examples to facilitate Go learning
+A place for collecting various documentation and code examples in order to facilitate Go learning
 
 ## Creating custom packages
 https://www.golang-book.com/books/intro/11
